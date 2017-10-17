@@ -1,0 +1,12 @@
+c:\Users\developer\Documents\CSharp\WebServer\bin\Debug\netcoreapp2.0\WebServer.deps.json
+c:\Users\developer\Documents\CSharp\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.json
+c:\Users\developer\Documents\CSharp\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.dev.json
+c:\Users\developer\Documents\CSharp\WebServer\bin\Debug\netcoreapp2.0\WebServer.dll
+c:\Users\developer\Documents\CSharp\WebServer\bin\Debug\netcoreapp2.0\WebServer.pdb
+c:\Users\developer\Documents\CSharp\WebServer\obj\Debug\netcoreapp2.0\WebServer.csproj.CoreCompileInputs.cache
+c:\Users\developer\Documents\CSharp\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfoInputs.cache
+c:\Users\developer\Documents\CSharp\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfo.cs
+c:\Users\developer\Documents\CSharp\WebServer\obj\Debug\netcoreapp2.0\WebServer.dll
+c:\Users\developer\Documents\CSharp\WebServer\obj\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\developer\Documents\CSharp\WebServer\bin\Debug\netcoreapp2.0\Site\favicon.png
+C:\Users\developer\Documents\CSharp\WebServer\bin\Debug\netcoreapp2.0\Site\index.html
